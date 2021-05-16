@@ -58,5 +58,5 @@ yarn server  ||  npm run server
 - Executar o projeto
 
 ```
-yarn dev  ||  npm run dev
+yarn start  ||  npm start
 ```

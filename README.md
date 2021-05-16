@@ -49,6 +49,12 @@ yarn  ||  npm i
 yarn test  ||  npm test
 ```
 
+- Executar a fake API com JSON Server
+
+```
+yarn server  ||  npm run server
+```
+
 - Executar o projeto
 
 ```

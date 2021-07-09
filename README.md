@@ -28,13 +28,13 @@ Principais funcionalidades:
 - Clonar o repositório
 
 ```
-> git clone https://github.com/holymos/rocketseat-ignite-desafio02
+> git clone https://github.com/holymos/rocketseat-carrinho-de-compras
 ```
 
 - Entrar no diretório do projeto
 
 ```
-> cd rocketseat-ignite-desafio02
+> cd rocketseat-carrinho-de-compras
 ```
 
 - Instalar as dependências com o Yarn ou npm
